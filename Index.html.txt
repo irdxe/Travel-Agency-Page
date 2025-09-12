@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+
+<head>
+
+
+<meta charset="utf-8">
+
+
+<title> Travel Agency Page </title>
+
+
+<meta name="description" content="Explore Brazil's natural beauties with the help of specialized packages for you and your family!">
+
+
+</head>
+
+
+<body>
+
+
+<h1> Discover Brazil's Natural Beauty! </h1>
+
+
+<p> Contact with nature is one of the best ways to clear your mind and take care of your mental health. Choose among our  wide selection of guided tours and excursions, and live an unforgettable experience exploring Brazil's nature! </p>
+
+
+<h2> Packages </h2>
+
+
+<p> We at Brexdri offer an extensive range of packages of holiday solutions to accommodate your family's needs! From daily excursions on Brazil's most beautiful beaches, to adventures in Cataratas do Iguaçu. </p>
+
+
+<ul>
+
+
+ <li> <a href= "https://www.freecodecamp.org/learn" target="_blank"> Group Travels </a>  </li>
+
+
+
+
+  <li> <a href= "https://www.freecodecamp.org/learn" target="_blank"> Private Tours </a> </li>
+
+
+</ul>
+
+
+<h2> Top Itineraries </h2>
+
+
+<figure>
+
+
+   <a href= "https://www.freecodecamp.org/learn" target="_blank"> <img src="https://www.hoteldelreyfoz.com.br/wp-content/uploads/2017/11/vista-cataratas-do-iguacu-scaled-1.jpg" alt="Cataras do Iguaçu in Brazil, Paraná" width="350" height="300"> </a>
+
+
+  <figcaption> Cataratas do Iguaçu, southern Brazil. </figcaption>
+
+
+</figure>
+
+
+<figure>
+
+
+<a href= "https://www.freecodecamp.org/learn" target="_blank"> <img src="https://guiaviajarmelhor.com.br/wp-content/uploads/2022/06/praias-em-alagoas6.jpg" alt="Alagoas Beach in Brazil, Alagoas" widht="350" height="300"> </a>
+
+
+<figcaption> Alagoas beach, northeast Brazil. </figcaption>
+
+
+</figure>
+
+
+<figure>
+
+
+ <a href= "https://www.freecodecamp.org/learn" target="_blank"> <img src="https://cdn.getyourguide.com/img/tour/5cb6f82228b6e.jpeg/148.jpg" alt="Amazon Rainforest in Brazil, Manaus" width="350" height="300"> </a>
+
+
+<figcaption> Amazon rainforest, northern Brazil. </figcaption>
+
+
+</figure>
+
+
+</body>
+
+
+</html>
+
+
