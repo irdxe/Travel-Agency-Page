@@ -22,3 +22,7 @@ Proper use of lists
 ## Credits: 
 
 Based on https://www.freecodecamp.org
+
+## Home page screenshot
+
+https://github.com/irdxe/Travel-Agency-Page/blob/main/screenshot-home-travel-agency.png
