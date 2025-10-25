@@ -6,7 +6,7 @@ Fictional travel agency page created while practicing HTML fundamentals (heading
 
 https://irdxe.github.io/Travel-Agency-Page/
 
-## View locally
+## How to run locally
 
 1. Clone the repository:
    git clone https://github.com/irdxe/Travel-Agency-Page.git
@@ -29,7 +29,7 @@ This project was built to practice HTML fundamentals from freeCodeCamp:
 
 ## Screenshot
 
-![Home page screenshot](https://github.com/irdxe/Travel-Agency-Page/blob/main/screenshot-home-travel-agency.png)
+![Home page screenshot](screenshot-home-travel-agency.png)
 
 ## Credits: 
 
